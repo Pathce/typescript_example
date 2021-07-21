@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/Pathce/typescript_example#readme",
   "dependencies": {
+    "crypto-js": "^4.0.0",
+    "typescript": "^4.3.5",
     "yarn": "^1.22.10"
+  },
+  "devDependencies": {
+    "tsc-watch": "^4.4.0"
   }
 }
